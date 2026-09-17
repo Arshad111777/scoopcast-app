@@ -20,11 +20,11 @@ A modern cross-platform mobile application that delivers movie/entertainment med
    git clone [https://github.com/Arshad111777/scoopcast-app.git](https://github.com/Arshad111777/scoopcast-app.git)
    cd scoopcast-app
 
-Install dependencies:
+## Install dependencies:
 
-Bash
-npm install
+```bash
 Start the project:
+npm install
 
-Bash
+Start the project:
 npx expo start
